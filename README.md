@@ -1,6 +1,6 @@
 - 👋 Hi, I’m.... @RavulaSuryaPrakash
 - 👀 I’m interested in....  Developing new things
-- 🌱 I’m currently learning... Core Software Engineering like Distributed System and Enterprise Software Platforms.
+- 🌱 I’m currently learning... Software Engineering like Distributed System and Enterprise Software Platforms.
 - 💞️ I’m looking to collaborate on... Software Engineering!
 - 📫 How to reach me ... suryaprakashravula2000@gmail.com
 
